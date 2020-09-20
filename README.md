@@ -8,12 +8,14 @@ Data contain records of 1727 Vehicle observation and 7 features.
 6. Safety: Quality of the safety features in the car
 7. Decision: Car is get accepted or unexpected based on above features
 
-Algorithm used Logistics Regression, Random Forest, KNN, and SVM
-Feature selection – multicollinearity and Recursive Feature Elimination.
-For balancing the dataset – SMOTE
-
-Models Used for analysis:
-KNN
+Algorithm used:
+Logistics Regression
 Random Forest
-Logistic Regression
+KNN
 SVM
+
+Feature selection
+multicollinearity 
+Recursive Feature Elimination.
+
+For balancing the dataset – SMOTE
